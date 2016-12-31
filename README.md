@@ -1,6 +1,6 @@
 # Watcher of Friends Online
 
-[TODO. There will be project description]
+This is a script for true introverts. It shows the list of your VK friends that are online without making you log in! Just launch in and type in your login and password to VK.
 
 # Project Goals
 
